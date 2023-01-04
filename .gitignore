@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 선별된 최종 파일 목록.json
 yolov5s.pt
+최종 선별된 파일 목록.json
+백그라운드 파일 목록.json
