@@ -127,3 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+선별된 최종 파일 목록.json
