@@ -67,7 +67,7 @@
 
 >pip install --upgrade pip
 >
->pip install jupyter opencv-python tqdm pandas shutil tensorflow tensorboard gitpython matplotlib Pillow psutil PyYAML requests scipy thop seaborn
+>pip install jupyter opencv-python tqdm pandas tensorflow tensorboard gitpython matplotlib Pillow psutil PyYAML requests scipy thop seaborn
 
 #### 3. pytorch를 PC 환경에 맞춰 선택해 설치합니다.
 
