@@ -31,7 +31,7 @@
 
 - 만들어진 파일을 더블클릭해 메모장으로 실행한 후, 아래 내용을 복사/붙여넣기하고 저장, 메모장 종료
 
->[global]<br>trusted-host = pypi.org<br>               files.pythonhosted.org
+>[global]<br>trusted-host = pypi.org files.pythonhosted.org
 
 - 저장한 파일의 이름을 'pip.ini'로 변경
 
