@@ -63,13 +63,7 @@
 
 - Powershell로 실행될 경우 오류가 날 수 있습니다. command prompt로 띄워 주세요.
 
-#### 2. 터미널에서 pip upgrade 후 필요한 기본 패키지를 설치합니다.
-
->pip install --upgrade pip
->
->pip install jupyter opencv-python tqdm pandas tensorflow tensorboard gitpython matplotlib Pillow psutil PyYAML requests scipy thop seaborn
-
-#### 3. pytorch를 PC 환경에 맞춰 선택해 설치합니다.
+#### 2. pytorch를 PC 환경에 맞춰 선택해 설치합니다.
 
 - 브라우저를 열고 주소창에 'https://pytorch.org/get-started/locally/' 입력 후 이동
 
@@ -78,5 +72,11 @@
 - 'Compute Platform' 부분의 옵션은 본인의 환경에 맞게 선택(GPU가 없다면 CPU로, GPU가 있다면 CUDA 버전에 맞춰 선택)
 
 - 'Run this Command' 부분에 출력된 명령문을 복사한 후 커맨드 창에 붙여넣고 실행
+
+#### 3. 터미널에서 pip upgrade 후 필요한 기본 패키지를 설치합니다.
+
+>pip install --upgrade pip
+>
+>pip install jupyter opencv-python tqdm pandas tensorflow-gpu tensorboard gitpython matplotlib Pillow psutil PyYAML requests scipy thop seaborn
 
 ### 이제 준비는 끝났습니다. 교재에 맞춰 따라하다보면 나만의 Object Detection 모델을 만들 수 있을 것입니다.

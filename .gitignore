@@ -131,3 +131,6 @@ dmypy.json
 yolov5s.pt
 최종 선별된 파일 목록.json
 백그라운드 파일 목록.json
+best_saved_model/saved_model.pb
+best_saved_model/variables/variables.data-00000-of-00001
+best_saved_model/variables/variables.index
