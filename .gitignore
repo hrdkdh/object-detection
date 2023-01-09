@@ -134,4 +134,3 @@ yolov5s.pt
 # best_saved_model/saved_model.pb
 # best_saved_model/variables/variables.data-00000-of-00001
 # best_saved_model/variables/variables.index
-.DS_Store
