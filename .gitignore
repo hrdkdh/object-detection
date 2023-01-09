@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 선별된 최종 파일 목록.json
-yolov5s.pt
+# yolov5s.pt
 최종 선별된 파일 목록.json
 백그라운드 파일 목록.json
 # best_saved_model/saved_model.pb
