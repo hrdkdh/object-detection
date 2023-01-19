@@ -37,7 +37,7 @@
 
 #### 4. Yolov5 모델 다운로드를 위한 Git 설치
 
-- <a href="https://git-scm.com/download/win"> 으로 접속
+- <a href="https://git-scm.com/download/win">https://git-scm.com/download/win</a> 으로 접속
 
 - '64-bit Git for Windows Setup' 을 클릭해 git 프로그램을 다운로드 받은 후 더블클릭하여 설치
 
