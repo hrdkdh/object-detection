@@ -83,6 +83,6 @@
 
 >pip install --upgrade pip
 >
->pip install jupyter opencv-python tqdm pandas tensorflow-gpu tensorboard gitpython matplotlib Pillow psutil PyYAML requests scipy thop seaborn
+>pip install jupyter opencv-python tqdm pandas tensorflow==2.9.1 tensorboard gitpython matplotlib Pillow psutil PyYAML requests scipy thop seaborn
 
 ### 이제 준비는 끝났습니다. 교재에 맞춰 따라하다보면 나만의 Object Detection 모델을 만들 수 있을 것입니다.
